@@ -4,8 +4,6 @@ Sou um estudante de ensino médio integrado ao curso técnico em tecnologia, com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
-![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicSeraf&show_icons=true&theme=tokyonight)
-
 ## Linguagens de Programação
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,3 +23,5 @@ Sou um estudante de ensino médio integrado ao curso técnico em tecnologia, com
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Estudante de tecnologia integrada ao ensino médio, explorando o mundo da programação e inovação. Sempre em busca de aprender algo novo e criar soluções 🚀
+
+![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicSeraf&show_icons=true&theme=tokyonight)
